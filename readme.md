@@ -1,4 +1,4 @@
-## Fruit Shop Cart Calulatior Challenge
+## Fruit Shop Cart Calulator Challenge
 
 In this exercise, your challenge is to write a Fruit Shop Cart Calculator. Write tests code to illustrate the following requirements, and write the additional application code you need to make them work:
 
